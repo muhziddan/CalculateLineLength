@@ -8,10 +8,10 @@ Our client is a fan of geometry, He wants to model a line based on points consis
 3. JUnit 5
 
 ## How  to Run Test
-TBD
+- Run `gradle test --tests CalculateLineLengthTest`
 
 ## Build Instructions
-TBD
+- Run `gradle build`
 
 ## Run Instructions
 TBD
